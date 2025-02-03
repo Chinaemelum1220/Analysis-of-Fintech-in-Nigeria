@@ -56,6 +56,7 @@ Open Banking: APIs are enabling third-party developers to build innovative finan
 
 40% of the competitors make use of transaction fees
 For subscription-based banking services, premium accounts are charged between ₦500-₦2000/month, offering benefits like overdrafts and cashback.
+
 #### Gaps in the Market
 -  **Digital Payments:** While digital payments dominate the market, most competitors use transaction fees, which can be costly for frequent users. There is also limited adoption of subscription-based models in this segment
 -  **Micro-Lending:** Many microlending platforms charge high interest rates (e.g., 10-30%) and processing fees, which can deter borrowers, especially students and small business owners.
