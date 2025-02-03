@@ -4,12 +4,13 @@
 ## Project Overview
 This repository contains the data and documentation for a comprehensive Nigerian FinTech ecosystem market analysis. The project aims to provide insights into popular products, trends, competitor pricing, and customer profiles to guide strategic decisions for a FinTech startup. The analysis was conducted as part of a group project, emphasizing teamwork and collaboration.
 ## Project Objectives
-The research seeks to answer the following questions:
-What are the most in-demand FinTech products in Nigeria?
-What are the latest trends in FinTech adoption (e.g., digital currencies, AI-driven tools, open banking)?
-How do competitors price their services, and where are the gaps?
-Who are the target customers, and what are their preferences?
-What are the key challenges and opportunities in the Nigerian FinTech market?
+-  1. The research seeks to answer the following questions:
+   2. What are the most in-demand FinTech products in Nigeria?
+   3. What are the latest trends in FinTech adoption (e.g., digital currencies, AI-driven tools, open banking)?
+   4. How do competitors price their services, and where are the gaps?
+   5. Who are the target customers, and what are their preferences?
+   6. What are the key challenges and opportunities in the Nigerian FinTech market?
+      
 ## Methodology
 ### Data Collection
 The analysis used secondary data collected from industry reports, company websites, and news articles.
