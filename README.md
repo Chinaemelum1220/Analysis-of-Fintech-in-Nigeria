@@ -1,4 +1,4 @@
-# Analysis of the Fintech Market Analysis in Nigeria
+# Fintech Market Analysis in Nigeria
 ![](fiiin.jpeg)
 
 ## Project Overview
